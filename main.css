@@ -1,0 +1,16 @@
+body {
+    background-color: aquamarine;
+}
+
+.gallery {
+    display: flex;
+    gap: 8px;
+}
+
+.column {
+    width: 25%;
+}
+
+.gallery img {
+    max-width: 100%;
+}
